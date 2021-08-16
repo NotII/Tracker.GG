@@ -1,12 +1,12 @@
 {
-  "name": "Tracker.GG",
+  "name": "@notiixd/trackergg",
   "version": "1.0.0",
-  "description": "",
+  "description": "API Client for Tracker.GG's api.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["tracker.gg", "stats", "trackernetwork", "tracker.gg api"],
   "author": "NotII",
   "license": "ISC",
   "dependencies": {
