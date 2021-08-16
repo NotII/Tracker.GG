@@ -1,6 +1,6 @@
 {
   "name": "@notiixd/trackergg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API Client for Tracker.GG's api.",
   "main": "index.js",
   "scripts": {
