@@ -28,7 +28,6 @@ class TrackerGG {
   };
 
 /**
- * @constructor
  * @param {string} user - Username
  * @returns {Promise<Object>}
  */
@@ -42,7 +41,6 @@ class TrackerGG {
   };
 
 /**
- * @constructor
  * @param {string} platform - Users platform
  * @param {string} user - Username
  * @returns {Promise<Object>}
@@ -61,7 +59,6 @@ class TrackerGG {
   };
 
 /**
- * @constructor
  * @param {string} platform - Users platform
  * @param {string} user - Username
  * @returns {Promise<Object>}
@@ -80,7 +77,6 @@ class TrackerGG {
   };
 
 /**
- * @constructor
  * @param {string} platform - Users platform
  * @param {string} user - Username
  * @returns {Promise<Object>}
@@ -99,7 +95,6 @@ class TrackerGG {
   };
   
 /**
- * @constructor
  * @param {string} user - Username
  * @returns {Promise<Object>}
  */
@@ -113,7 +108,6 @@ class TrackerGG {
   };
 
 /**
- * @constructor
  * @param {string} platform - Users platform
  * @param {string} user - Username
  * @returns {Promise<Object>}
